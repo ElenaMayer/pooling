@@ -1,0 +1,37 @@
+button {
+    margin: 5px 0;
+}
+
+.content {
+    padding: 20px;
+    width: 50%;
+    background-color: aliceblue;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+.content h1 {
+    clear: both;
+}
+
+.content .content_padding {
+    padding-bottom: 30px;
+}
+
+.add-button {
+    float: right;
+}
+
+.new-poll {
+    float: right;
+}
+
+.answer-added .col-2 {
+    padding-right: 16px;
+    margin-top: -4px;
+}
+
+.answer-added button {
+    width: 37px;
+}
